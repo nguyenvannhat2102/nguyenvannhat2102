@@ -1,9 +1,6 @@
 # 👋 Hello there, I'm Nguyễn Văn Nhật!👨‍💻
 
-<p>
-  <img src="https://example.com/your-lottie-animation.gif" width="600" height="300">
-</p>
-
+![Your Animation](https://raw.githubusercontent.com/nguyenvannhat2102/nguyenvannhat2102/refs/heads/main/123.gif)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07F718&width=435&lines=%F0%9F%93%B1%F0%9F%93%B2+I'M+MOBILE+DEVELOPER;Creators+of+apps+so+you'll+never+be+;away+from+your+phone;(unless+the+battery+runs+out))](https://git.io/typing-svg)
 
 ---
@@ -35,7 +32,6 @@
 
 ## 💬 Let’s Connect 🌍  
 - 📧 Email: [nguyenvannhat21022002@gmail.com](mailto:nguyenvannhat21022002@gmail.com)  
-- 🌐 Portfolio: *(Your portfolio link here)*  
-- 💼 LinkedIn: *(Your LinkedIn link here)*  
+- 💼 LinkedIn: *www.linkedin.com/in/nhật-nguyễn-17a3a8242*  
 
 ---
