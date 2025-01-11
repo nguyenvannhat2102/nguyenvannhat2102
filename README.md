@@ -17,8 +17,7 @@
 
 ---
 
-## 🛠️ My Arsenal 🔧  
-Here’s the gear that powers my craft:  
+## 🛠️ My Skill 🔧   
 - 💻 **Languages & Platforms**:  
   ![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white)
   ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)  
